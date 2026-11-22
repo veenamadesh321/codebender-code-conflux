@@ -98,34 +98,38 @@ GitHub| Code management and collaboration
 The project will be organised into the following structure:
 
 ```text
+Code Conflux/
 LearnLink/
 │
-├── README.md
+├── README.md                 # Project documentation
 │
 ├── Python/
-│   ├── main.py
-│   ├── ai_tutor.py
-│   ├── language.py
-│   └── progress.py
+│   ├── main.py               # Main program
+│   ├── ai_tutor.py           # AI-based tutor
+│   ├── language.py           # Regional language support
+│   ├── voice_learning.py     # Voice-based learning
+│   ├── doubt_clearing.py    # Student doubt solving
+│   └── progress.py           # Learning progress tracking
 │
 ├── C/
-│   └── student_learning.c
+│   └── student_learning.c    # Basic learning operations
 │
 ├── frontend/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
+│   ├── index.html            # Website structure
+│   ├── style.css             # Website design
+│   └── script.js             # Website functionality
 │
 ├── backend/
-│   └── app.py
+│   ├── app.py                # Backend application
+│   ├── routes.py             # API routes
+│   └── services.py           # Application services
 │
 ├── database/
-│   └── students.db
+│   ├── students.db           # Student information
+│   └── lessons.db            # Learning materials
 │
-└── content/
-    ├── kannada/
-    ├── english/
-    └── lessons/
+└── requirements.txt          # Required Python packages
+
 ```
 
 ---
