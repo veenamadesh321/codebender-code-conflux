@@ -98,7 +98,6 @@ GitHub| Code management and collaboration
 The project will be organised into the following structure:
 
 ```text
-Code Conflux/
 LearnLink/
 │
 ├── README.md                 # Project documentation
@@ -129,7 +128,6 @@ LearnLink/
 │   └── lessons.db            # Learning materials
 │
 └── requirements.txt          # Required Python packages
-
 ```
 
 ---
