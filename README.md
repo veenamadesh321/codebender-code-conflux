@@ -13,10 +13,8 @@
 
 ## 📌 Table of Contents
 
-- [Team Members]
-  (#-team-members-github-ids)
-- [Problem Statement]
-  (#-problem-statement)
+- [Team Members]_(#-team-members-github-ids)
+- [Problem Statement]_(#-problem-statement)
 - [Proposed Solution]
   (#-proposed-solution)
 - [Approach & Architecture]
