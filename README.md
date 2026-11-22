@@ -53,16 +53,40 @@ _LearnLink is an affordable digital learning platform for underprivileged studen
 
  ## Architecture and Approach
 
-**System Architecture**
+flowchart TD
 
-**LearnLink consists of the following main components:**
+A[Student Opens LearnLink Platform]
 
-1. User Interface: Provides a simple and easy-to-use platform for students.
-2. Language Module: Provides learning materials in different regional languages.
-3. AI Tutor Module: Helps students understand concepts and clear doubts.
-4. Offline Storage: Stores lessons for learning without internet access.
-5. Backend System: Manages student details, educational content, and learning activities.
-6. Database: Stores learning materials and student progress.
+A --> B[User Interface]
+
+B --> C[Select Preferred Language]
+
+C --> D[Choose Subject and Topic]
+
+D --> E[Access Learning Materials]
+
+E --> F{Internet Available?}
+
+F -->|Yes| G[Connect to Backend System]
+
+F -->|No| H[Access Offline Stored Lessons]
+
+H --> E
+
+G --> I[AI Tutor Module]
+
+I --> J[Understand Concepts and Clear Doubts]
+
+J --> K[Voice-Based Learning]
+
+K --> L[Practice and Complete Lessons]
+
+L --> M[Track Learning Progress]
+
+M --> N[Store Student Progress in Database]
+
+N --> O[Display Learning Results]
+
 
 ## Working Approach
 
