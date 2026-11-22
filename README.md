@@ -2,14 +2,6 @@
   
 # code conflux
 
-**codebenders** &nbsp;|&nbsp;
-Tier : **Online**
-
-</div>
-  
----
-
-<div align ="center">
 
 # Code Storm
 
@@ -17,6 +9,7 @@ Tier : **Online**
 |---|---|
 | **Team Name** | Code Storm |
 | **Team Members** | Member 1, Member 2, Member 3 |
+|Tier : **Online**|
 | **Organisation** | VTU-Qiskit Fall Fest 2026 |
 <\div>
 
