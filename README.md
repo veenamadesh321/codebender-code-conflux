@@ -44,19 +44,15 @@
 
 ## ❓ Problem Statement
 
-<!__
 Millions of underprivileged students study in regional-language schools with limited teachers, no proper tutoring, and unreliable access to education. Most digital learning platforms use English and require smartphones and stable internet. As a result, students who need educational support the most often cannot access it.
-__>
 
 ## 💡 Proposed Solution
 
-<!__
 LearnLink:
 
 LearnLink is an affordable digital learning platform for underprivileged students. It provides regional-language lessons, an AI-based tutor, offline access, voice learning, doubt clearing, progress tracking, and low-data usage to make education accessible and easy for everyone.
-__>
 
-3.  Architecture and Approach
+ ## Architecture and Approach
 
 System Architecture
 
@@ -69,7 +65,7 @@ LearnLink consists of the following main components:
 5. Backend System: Manages student details, educational content, and learning activities.
 6. Database: Stores learning materials and student progress.
 
-Working Approach
+## Working Approach
 
 - Step 1: Students open the LearnLink platform.
 - Step 2: Select their preferred language.
@@ -81,7 +77,7 @@ Working Approach
 
 ---
 
-4. 💻 Tech Stack
+## 💻 Tech Stack
 
 Technology| Purpose
 Python| Backend programming and AI integration
@@ -97,7 +93,7 @@ GitHub| Code management and collaboration
 
 ---
 
-5. 📂 Program Structure
+##  📂 Program Structure
 
 The project will be organised into the following structure:
 
