@@ -28,35 +28,34 @@
 ---
 ## 👥 Team Details
 
-**Team Name:** Tech Innovators
+**Team Name:** Code Conflux
 
-**Organisation:** Your College Name
+**Organisation:** Codebenders ACE Builders
 
 ### Team Members
 
 | Sl. No. | Team Member |
 |---------|-------------|
 | 1 | Veena M |
-| 2 | Bhuvana Shree V |
-| 3 | Pavithra S |
+| 2 | Priya S N|
 
 ---
 
 ## ❓ Problem Statement
 
-Millions of underprivileged students study in regional-language schools with limited teachers, no proper tutoring, and unreliable access to education. Most digital learning platforms use English and require smartphones and stable internet. As a result, students who need educational support the most often cannot access it.
+_Millions of underprivileged students study in regional-language schools with limited teachers, no proper tutoring, and unreliable access to education. Most digital learning platforms use English and require smartphones and stable internet. As a result, students who need educational support the most often cannot access it._
 
 ## 💡 Proposed Solution
 
-LearnLink:
+**LearnLink:**
 
-LearnLink is an affordable digital learning platform for underprivileged students. It provides regional-language lessons, an AI-based tutor, offline access, voice learning, doubt clearing, progress tracking, and low-data usage to make education accessible and easy for everyone.
+_LearnLink is an affordable digital learning platform for underprivileged students. It provides regional-language lessons, an AI-based tutor, offline access, voice learning, doubt clearing, progress tracking, and low-data usage to make education accessible and easy for everyone._
 
  ## Architecture and Approach
 
-System Architecture
+**System Architecture**
 
-LearnLink consists of the following main components:
+**LearnLink consists of the following main components:**
 
 1. User Interface: Provides a simple and easy-to-use platform for students.
 2. Language Module: Provides learning materials in different regional languages.
@@ -79,17 +78,18 @@ LearnLink consists of the following main components:
 
 ## 💻 Tech Stack
 
-Technology| Purpose
-Python| Backend programming and AI integration
-C Language| Basic programming and student management
-HTML| Web page structure
-CSS| User interface design
-JavaScript| Interactive features
-Flask| Backend development
-SQLite| Database management
-AI / NLP| Understanding student questions
-Text-to-Speech| Converting text into audio
-GitHub| Code management and collaboration
+|Technology| Purpose|
+|:---|:---|
+|Python| Backend programming and AI integration|
+|C Language| Basic programming and student management|
+|HTML| Web page structure|
+|CSS| User interface design|
+|JavaScript| Interactive features|
+|Flask| Backend development|
+|SQLite| Database management|
+|AI/ NLP| Understanding student questions|
+|Text-to-Speech| Converting text into audio|
+|GitHub| Code management and collaboration|
 
 ---
 
@@ -249,9 +249,9 @@ int main()
 ---
 ## 🎯 Expected Outcome
 
-LearnLink aims to provide affordable, multilingual, and accessible education to students who lack proper learning facilities.
+**LearnLink aims to provide affordable, multilingual, and accessible education to students who lack proper learning facilities.**
 
-By combining regional languages, AI-based tutoring, and offline learning, the platform aims to:
+**By combining regional languages, AI-based tutoring, and offline learning, the platform aims to:**
 
 - Reduce the educational gap between students.
 - Support students from rural and underprivileged backgrounds.
@@ -263,8 +263,7 @@ By combining regional languages, AI-based tutoring, and offline learning, the pl
 
 ## 🌟 Conclusion
 
-LearnLink is designed to bridge the educational gap by making learning simple, affordable, and accessible.
-
-It aims to ensure that every student gets an equal opportunity to learn, grow, and succeed.
+_Learn Link is designed to bridge the educational gap by making learning simple, affordable, and accessible.
+It aims to ensure that every student gets an equal opportunity to learn, grow, and succeed._
 
 ---
