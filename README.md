@@ -1,6 +1,6 @@
 <div align="center">
   
-# codeconflux
+# code conflux
 
 **codebenders** &nbsp;|&nbsp;
 Tier : **Online**
@@ -11,20 +11,30 @@ Tier : **Online**
 
 <div align ="center">
 
-| | |
+| | 
 |:--- |:---|
 |**Team** | Code Conflux |
+|**Team Members**| Priya S N .Veena M|
 | **Tier** |Online |
 |**Repository **|
+[Codebender-code-conflux](https://github.com/Codebender-code-conflux.git)|
+| **Organisation** |
+Codebenders ACE Builders |
 
+<\div>
 
+---
 
+## 📌 Table of Contents
 
-The Problem
-Millions of underprivileged students study in regional-language schools with too few teachers, no tutoring and, for 
-some, unreliable access to school itself. Almost all good digital learning content is in English and assumes a 
-personal smartphone, steady data and a parent who can guide the child. The students who need help the most are 
-the ones ed-tech reaches the least.
+- [Team Members](#-team-members-github-ids)
+- [Problem Statement](#-problem-statement)
+- [Proposed Solution](#-proposed-solution)
+- [Approach & Architecture](#-approach--architecture)
+- [Tech Stack](#-tech-stack)
+- [Project Structure](#-project-structure)
+
+---
 
 
 The Problem
