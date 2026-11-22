@@ -247,8 +247,7 @@ int main()
 }
 
 ---
-
-7. 🎯 Expected Outcome
+## 🎯 Expected Outcome
 
 LearnLink aims to provide affordable, multilingual, and accessible education to students who lack proper learning facilities.
 
@@ -262,8 +261,10 @@ By combining regional languages, AI-based tutoring, and offline learning, the pl
 
 ---
 
-🌟 Conclusion
+## 🌟 Conclusion
 
 LearnLink is designed to bridge the educational gap by making learning simple, affordable, and accessible.
 
 It aims to ensure that every student gets an equal opportunity to learn, grow, and succeed.
+
+---
