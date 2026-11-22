@@ -42,12 +42,19 @@
 
 ---
 
+## ❓ Problem Statement
 
-The Problem
-Millions of underprivileged students study in regional-language schools with too few teachers, no tutoring and, for 
-some, unreliable access to school itself. Almost all good digital learning content is in English and assumes a 
-personal smartphone, steady data and a parent who can guide the child. The students who need help the most are 
-the ones ed-tech reaches the least.
+<!__
+Millions of underprivileged students study in regional-language schools with limited teachers, no proper tutoring, and unreliable access to education. Most digital learning platforms use English and require smartphones and stable internet. As a result, students who need educational support the most often cannot access it.
+__>
+
+## 💡 Proposed Solution
+
+<!__
+LearnLink:
+
+LearnLink is an affordable digital learning platform for underprivileged students. It provides regional-language lessons, an AI-based tutor, offline access, voice learning, doubt clearing, progress tracking, and low-data usage to make education accessible and easy for everyone.
+__>
 
 3.  Architecture and Approach
 
