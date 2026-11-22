@@ -19,12 +19,7 @@
 - [Approach & Architecture](#-approach--architecture)
 - [Tech Stack](#-tech-stack)
 - [Project Structure](#-project-structure)
-- [How to Run](#-how-to-run)
-- [How to Push Code](#-how-to-push-code)
-- [Submission Checklist](#-submission-checklist)
-- [Resources](#-resources)
-- [License](#-license)
-
+  
 ---
 ## 👥 Team Details
 
@@ -43,18 +38,19 @@
 
 ## ❓ Problem Statement
 
-_Millions of underprivileged students study in regional-language schools with limited teachers, no proper tutoring, and unreliable access to education. Most digital learning platforms use English and require smartphones and stable internet. As a result, students who need educational support the most often cannot access it._
+**Problem:**_Millions of underprivileged students study in regional-language schools with limited teachers, no proper tutoring, and unreliable access to education. Most digital learning platforms use English and require smartphones and stable internet. As a result, students who need educational support the most often cannot access it._
 
 ## 💡 Proposed Solution
 
-**LearnLink:**
-
-_LearnLink is an affordable digital learning platform for underprivileged students. It provides regional-language lessons, an AI-based tutor, offline access, voice learning, doubt clearing, progress tracking, and low-data usage to make education accessible and easy for everyone._
+**LearnLink:**_LearnLink is an affordable digital learning platform for underprivileged students. It provides regional-language lessons, an AI-based tutor, offline access, voice learning, doubt clearing, progress tracking, and low-data usage to make education accessible and easy for everyone._
 
  ## Architecture and Approach
+ <!--
+ Walk through how it works .A simple pipeline diagram in text or Mermaid is ideal .
+ -->
 
+ ```mermaid
 flowchart TD
-
 A[Student Opens LearnLink Platform]
 
 A --> B[User Interface]
@@ -86,6 +82,7 @@ L --> M[Track Learning Progress]
 M --> N[Store Student Progress in Database]
 
 N --> O[Display Learning Results]
+```
 
 
 ## Working Approach
