@@ -13,16 +13,19 @@
 
 ## 📌 Table of Contents
 
-- [Team Members]_(#-team-members-github-ids)
-- [Problem Statement]_(#-problem-statement)
-- [Proposed Solution]
-  (#-proposed-solution)
-- [Approach & Architecture]
-  (#-approach--architecture)
-- [Tech Stack](
-  #-tech-stack)
-- [Project Structure](
-  #-project-structure)
+- [Team Members](#-team-members-github-ids)
+- [Problem Statement](#-problem-statement)
+- [Proposed Solution](#-proposed-solution)
+- [Approach & Architecture](#-approach--architecture)
+- [Tech Stack](#-tech-stack)
+- [Project Structure](#-project-structure)
+- [How to Run](#-how-to-run)
+- [How to Push Code](#-how-to-push-code)
+- [Submission Checklist](#-submission-checklist)
+- [Resources](#-resources)
+- [License](#-license)
+
+---
 
 ---
 
