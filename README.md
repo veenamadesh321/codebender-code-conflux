@@ -1,16 +1,14 @@
 <div align="center">
   
-# code conflux
-
-
-# Code Storm
+# Code Conflux
 
 | Details | Information |
 |---|---|
-| **Team Name** | Code Storm |
-| **Team Members** | Member 1, Member 2, Member 3 |
-|Tier : **Online**|
-| **Organisation** | VTU-Qiskit Fall Fest 2026 |
+| **Team Name** | Code Conflux|
+| **Team Members** | Veena.M, Priya S N |
+|  **Tier **| Online|
+| **Organisation** | Codebenders ACE Builders|
+
 <\div>
 
 ---
