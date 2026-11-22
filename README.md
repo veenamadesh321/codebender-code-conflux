@@ -11,16 +11,13 @@ Tier : **Online**
 
 <div align ="center">
 
-| | 
-|:--- |:---|
-|**Team** | Code Conflux |
-|**Team Members**| Priya S N .Veena M|
-| **Tier** |Online |
-|**Repository **|
-[Codebender-code-conflux](https://github.com/Codebender-code-conflux.git)|
-| **Organisation** |
-Codebenders ACE Builders |
+# Code Storm
 
+| Details | Information |
+|---|---|
+| **Team Name** | Code Storm |
+| **Team Members** | Member 1, Member 2, Member 3 |
+| **Organisation** | VTU-Qiskit Fall Fest 2026 |
 <\div>
 
 ---
