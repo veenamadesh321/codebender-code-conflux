@@ -97,6 +97,7 @@ GitHub| Code management and collaboration
 
 The project will be organised into the following structure:
 
+```text
 LearnLink/
 │
 ├── README.md
@@ -125,6 +126,7 @@ LearnLink/
     ├── kannada/
     ├── english/
     └── lessons/
+```
 
 ---
 
