@@ -6,10 +6,8 @@
 |---|---|
 | **Team Name** | Code Conflux|
 | **Team Members** | Veena.M, Priya S N |
-|  **Tier **| Online|
+|  **Tier**| Online|
 | **Organisation** | Codebenders ACE Builders|
-
-<\div>
 
 ---
 
