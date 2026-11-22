@@ -26,6 +26,19 @@
 - [License](#-license)
 
 ---
+## 👥 Team Details
+
+**Team Name:** Tech Innovators
+
+**Organisation:** Your College Name
+
+### Team Members
+
+| Sl. No. | Team Member |
+|---------|-------------|
+| 1 | Veena M |
+| 2 | Bhuvana Shree V |
+| 3 | Pavithra S |
 
 ---
 
